@@ -1,0 +1,2 @@
+# QSC
+Qortal Satillite Cluster
